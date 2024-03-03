@@ -1,0 +1,1 @@
+This full-stack MERN (MongoDB, Express.js, React, Node.js) application provides a comprehensive platform for financial analysts to visualize and analyze key performance indicators (KPIs) in finance. By facilitating data-driven decision-making, the application aids in strategic planning and offers predictive insights through financial trend forecasting.
